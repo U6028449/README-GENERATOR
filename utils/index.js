@@ -114,7 +114,7 @@ function init() {
       const readmeContent = generateReadme(answers);
 
       // Write the content to a new README.md file
-      writeToFile('../README2.md', readmeContent);
+      writeToFile('../README.md', readmeContent);
     })
     .catch((error) => {
       console.error(error);
