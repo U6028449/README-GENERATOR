@@ -4,7 +4,7 @@
 
 ## Description
 
-THis is a simple yet professional looking README.md generator being run from the command line using node
+This is a simple yet professional looking README.md generator being run from the command line using node
 
 ## Table of Contents
 
